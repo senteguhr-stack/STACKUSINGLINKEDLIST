@@ -95,4 +95,6 @@ int main()
         case 1:
             cout << "Enter value to push : ";
             cin >> value;
+            stack.push(value);//
+            break;
         
